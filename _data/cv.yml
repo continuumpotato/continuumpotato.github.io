@@ -75,26 +75,31 @@ cv:
 
     Publications:
       - title: Mechanics-Based Optimization of Shear Lap Joints for Enhanced Force Capacity
+        url: https://doi.org/10.1021/acsaenm.3c00568
         publisher: ACS Applied Engineering Materials
         releaseDate: 2024
         summary: Pande, S. S., Fulco, S., & Turner, K. T.
 
       - title: Geometric Optimization of Pillars for Enhanced Adhesion
+        url: https://doi.org/10.1016/j.eml.2023.101969
         publisher: Extreme Mechanics Letters
         releaseDate: 2023
         summary: Pande, S. S. & Turner, K. T.
 
       - title: Versatile Adhesion-Based Gripping via an Unstructured Variable Stiffness Membrane
+        url: https://doi.org/10.1089/soro.2021.0065
         publisher: Soft Robotics
         releaseDate: 2022
         summary: "Luo, A., Pande, S. S., & Turner, K. T. Patent: US20250144814A1."
 
       - title: The Interplay of Polymer Bridging and Entanglement in Toughening Polymer-Infiltrated Nanoparticle Films
+        url: https://doi.org/10.1021/acsnano.2c00471
         publisher: ACS Nano
         releaseDate: 2022
         summary: Qiang, Y., Pande, S. S., Lee, D., & Turner, K. T.
 
       - title: Top-Down Synthesis of Zinc Oxide-based Inks for Inkjet Printing
+        url: https://doi.org/10.1039/C7RA07150G
         publisher: RSC Advances
         releaseDate: 2017
         summary: Sharma, S., Pande, S. S., & Swaminathan, P.
